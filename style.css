@@ -3,9 +3,9 @@ body {
 }
 
 .grid {
+    text-align: center !important;
     width: 600px;
     height: auto;
-    text-align: center;
     margin: 10px 20px 10px 20px;
     background-color: #fff;
     padding: 10px 50px 50px 50px;
